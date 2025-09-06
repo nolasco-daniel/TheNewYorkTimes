@@ -4,7 +4,7 @@ A fully responsive webpage inspired by The New York Times design.
 This project demonstrates modern front-end development techniques using HTML, CSS, and JavaScript.
 
 The layout mimics the look and feel of a news website, with a navigation bar, hero section for top stories, and a grid of articles.
-It’s styled with a black and blue minimalist aesthetic and subtle animations to create a clean yet modern “game-like” vibe.
+It’s styled with a black and blue minimalist aesthetic.
 
 
 Tech Stack
