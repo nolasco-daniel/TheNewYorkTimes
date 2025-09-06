@@ -19,6 +19,7 @@ Core Features
 
 📱 Responsive Design – works on desktop, tablet, and mobile screens.
 
+
 🗂 Project Structure
 
 index.html – main webpage file
