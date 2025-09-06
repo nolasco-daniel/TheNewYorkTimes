@@ -6,13 +6,6 @@ This project demonstrates modern front-end development techniques using HTML, CS
 The layout mimics the look and feel of a news website, with a navigation bar, hero section for top stories, and a grid of articles.
 It’s styled with a mordern minimalist aesthetic.
 
-
-Tech Stack
-
-Future Improvements
-
-Author
-
 🚀 Features
 Core Features
 
