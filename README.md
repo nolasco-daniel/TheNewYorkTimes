@@ -1,4 +1,4 @@
-📰 The New York Times – Styled Webpage
+📰 The New York Times – News Website
 
 A fully responsive webpage inspired by The New York Times design.
 This project demonstrates modern front-end development techniques using HTML, CSS, and JavaScript.
